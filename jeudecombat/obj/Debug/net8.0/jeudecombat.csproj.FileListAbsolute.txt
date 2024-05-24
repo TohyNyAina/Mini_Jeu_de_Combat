@@ -1,0 +1,14 @@
+E:\Projet\C#\jeudecombat\jeudecombat\bin\Debug\net8.0\jeudecombat.exe
+E:\Projet\C#\jeudecombat\jeudecombat\bin\Debug\net8.0\jeudecombat.deps.json
+E:\Projet\C#\jeudecombat\jeudecombat\bin\Debug\net8.0\jeudecombat.runtimeconfig.json
+E:\Projet\C#\jeudecombat\jeudecombat\bin\Debug\net8.0\jeudecombat.dll
+E:\Projet\C#\jeudecombat\jeudecombat\bin\Debug\net8.0\jeudecombat.pdb
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.AssemblyInfoInputs.cache
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.AssemblyInfo.cs
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.csproj.CoreCompileInputs.cache
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.dll
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\refint\jeudecombat.dll
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.pdb
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\jeudecombat.genruntimeconfig.cache
+E:\Projet\C#\jeudecombat\jeudecombat\obj\Debug\net8.0\ref\jeudecombat.dll
